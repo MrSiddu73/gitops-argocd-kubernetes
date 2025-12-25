@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/MrSiddu73/gitops-argocd-kubernetes.git
+    repoURL: https://github.com/MrSiddu73/gitops-argocd-kubernetes
     targetRevision: main
     path: apps/prod
   destination:
