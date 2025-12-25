@@ -91,4 +91,3 @@ This document records real issues encountered during implementation and how they
 - Resource renaming requires controlled cleanup
 - GitOps failures are often runtime or infrastructure-related
 - Logs and events are critical for debugging
-```

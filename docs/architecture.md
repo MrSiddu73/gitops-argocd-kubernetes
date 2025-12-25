@@ -71,4 +71,3 @@ This prevents:
 ## Summary
 
 This architecture follows **GitOps best practices** by enforcing Git as the source of truth and using Argo CD as the reconciliation engine to manage Kubernetes environments safely and consistently.
-```

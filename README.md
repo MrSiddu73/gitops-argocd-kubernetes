@@ -195,5 +195,3 @@ GitHub: [https://github.com/MrSiddu73](https://github.com/MrSiddu73)
 ✅ Prod – Healthy & Synced
 
 This repository represents a **complete, production-grade GitOps implementation**.
-
-````

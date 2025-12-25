@@ -51,6 +51,3 @@
 - Argo CD enforces desired state continuously
 - Manual cluster changes are temporary
 - Git history provides audit and rollback capability
-```
-
----
