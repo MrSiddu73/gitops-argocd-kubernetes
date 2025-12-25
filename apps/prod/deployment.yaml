@@ -19,3 +19,4 @@ spec:
         image: gcr.io/google-samples/gb-frontend:v5
         ports:
         - containerPort: 80
+
