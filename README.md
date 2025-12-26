@@ -129,6 +129,9 @@ gitops-argocd-kubernetes/
 │   ├── architecture.md
 │   ├── gitops-flow.md
 │   └── troubleshooting.md
+|   ├── dev.png
+│   ├── stage.png
+│   └── prod.png
 └── README.md
 ```
 
